@@ -1,0 +1,15 @@
+/* CSS Document */
+*{
+	margin: 0px;
+	padding:0px;
+}
+body{
+	background:black;
+}
+#canvas{
+	max-width: 90%;
+	max-height: 90%;
+	margin: 6px auto;
+	display: inherit;
+	box-shadow: 0px 0px 0px 3px rgb(255, 255, 255);
+}
